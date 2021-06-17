@@ -9,6 +9,7 @@ namespace Wired2
         /// </summary>
         /// <param name="args"></param>
         /// julia
+        /// ///some more again
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");

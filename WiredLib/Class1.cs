@@ -5,5 +5,6 @@ namespace WiredLib
     public class Class1
     {
         // somemore functionality
+        // some more fnctality
     }
 }
