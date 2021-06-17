@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wired2", "Wired2\Wired2.csproj", "{F23232B2-2E4B-4AA2-9910-34E1C6B84BC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wired2", "Wired2\Wired2.csproj", "{F23232B2-2E4B-4AA2-9910-34E1C6B84BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredLib", "WiredLib\WiredLib.csproj", "{C6CAB24E-1BDE-4065-975B-8336B257FD8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F23232B2-2E4B-4AA2-9910-34E1C6B84BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F23232B2-2E4B-4AA2-9910-34E1C6B84BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F23232B2-2E4B-4AA2-9910-34E1C6B84BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CAB24E-1BDE-4065-975B-8336B257FD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CAB24E-1BDE-4065-975B-8336B257FD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CAB24E-1BDE-4065-975B-8336B257FD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CAB24E-1BDE-4065-975B-8336B257FD8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
