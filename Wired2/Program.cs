@@ -10,6 +10,7 @@ namespace Wired2
         /// <param name="args"></param>
         /// julia
         /// ///some more again
+        /// yet anothyer change to conflict
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
