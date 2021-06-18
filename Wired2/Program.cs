@@ -15,7 +15,7 @@ namespace Wired2
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("coffee shop yield")
+            Console.WriteLine("coffee shop yield....")
         }
     }
 }
